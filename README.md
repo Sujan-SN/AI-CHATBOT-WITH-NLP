@@ -32,3 +32,5 @@ In conclusion, this AI chatbot project provides a strong foundation for understa
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ab88da9c-c4e7-4a48-8238-95a07689ae2d)
+
